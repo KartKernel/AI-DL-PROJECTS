@@ -33,9 +33,9 @@ st.write("---")
 
 response = ''
 
-article = st.text_area("enter the article: ", height=200)
+article = st.text_area("enter the Question/text to find answer/summary: ", height=200)
 if st.button("Generate"):
-    with st.spinner("Generating Headlines..."):
+    with st.spinner("Generating Answer..."):
         response = llm_chain.run(article) 
 
 
