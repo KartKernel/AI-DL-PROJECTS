@@ -4,13 +4,13 @@ This is a web application built using Streamlit for detecting brain tumors in me
 
 ## Overview
 
-The Brain Tumor Detection Web App allows users to upload MRI images of the brain and get predictions on whether a tumor is present or not using a pre-trained CNN model.
+The Brain Tumor Detection Web App allows users to upload MRI images of the brain and get predictions on whether a tumor is present or not using a CNN model.
 
 ## Features
 
 - Upload MRI images in JPG, JPEG, or PNG format.
 - Display the uploaded image and preprocess it for model input.
-- Make predictions using a pre-trained CNN model for brain tumor detection.
+- Make predictions using a CNN model for brain tumor detection.
 - Display the prediction result (tumor present or not) with confidence score.
 
 ## Prerequisites
