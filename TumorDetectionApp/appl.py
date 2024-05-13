@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 
 # Load the pretrained model
-model = tf.keras.models.load_model('C:\AllDesktop\Prog\python\PROJECTS\DataScienceProjects\TumorDetection\BrainTumor10Epochs.h5')
+model = tf.keras.models.load_model('BrainTumor10Epochs.h5')
 
 # Define a function to make predictions
 def predict(image):
