@@ -33,8 +33,8 @@ Before running the app, ensure you have the following installed:
 
 ## Folder Structure
 
-- app.py: Main Streamlit app script.
-- model.h5: Pre-trained TensorFlow model for brain tumor detection.
+- appl.py: Main Streamlit app script.
+- BrainTumor10Epochs.h5: Pre-trained TensorFlow model for brain tumor detection.
 - requirements.txt: List of required Python packages and versions.
 - README.md: Documentation and instructions.
 
