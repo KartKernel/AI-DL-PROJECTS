@@ -39,3 +39,9 @@ To get started with ChatPDF, follow these steps:
 
 ## Dependencies
 - Langchain
+- OpenAI API: For embeddings and chat model (OpenAIEmbeddings, ChatOpenAI)
+- HuggingFace API: Alternative embeddings (HuggingFaceInstructEmbeddings) --> free.
+- PyPDF2: For reading and extracting text from PDFs.
+- FAISS: For efficient vector storage and retrieval.
+- Streamlit: For the web-based interface.
+
