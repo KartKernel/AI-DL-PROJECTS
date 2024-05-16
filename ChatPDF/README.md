@@ -1,6 +1,6 @@
 # ChatPDF App
 
-ChatPDF is a Streamlit-based application that allows users to interact with multiple PDF documents using natural language. This application leverages Langchain, OpenAI's embedding API (OpenAIEmbeddings), HuggingFace's embedding API (HuggingFaceInstructEmbeddings), and PyPDF2 for reading PDFs. It uses the ChatOpenAI model for the chat functionality and FAISS for vector storage, ensuring efficient and effective retrieval of information from the PDFs.
+ChatPDF is a Streamlit-based application that allows users to interact with multiple PDF documents using natural language processing. This application leverages Langchain, OpenAI's embedding API (OpenAIEmbeddings), HuggingFace's embedding API (HuggingFaceInstructEmbeddings), and PyPDF2 for reading PDFs. It uses the ChatOpenAI model for the chat functionality and FAISS for vector storage, ensuring efficient and effective retrieval of information from the PDFs.
 
 ## Features
 
