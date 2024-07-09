@@ -30,7 +30,7 @@ browser-cookie3==0.19.1
 bs4==0.0.1
 cachetools==4.2.4
 certifi==2021.10.8
-cffi==1.15.0
+cffi
 chardet==5.2.0
 charset-normalizer==2.0.9
 click==8.1.4
@@ -91,7 +91,7 @@ grpcio-status==1.48.2
 gymnasium==0.29.1
 h11==0.14.0
 h2==4.1.0
-h5py==3.6.0
+h5py
 hpack==4.0.0
 httpcore==0.17.3
 httplib2==0.22.0
@@ -206,7 +206,7 @@ protobuf==3.20.3
 psutil==5.9.5
 pure-eval==0.2.2
 py-cpuinfo==9.0.0
-pyarrow==9.0.0
+pyarrow
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyAutoGUI==0.9.54
